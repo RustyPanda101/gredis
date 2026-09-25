@@ -1,0 +1,15 @@
+*1
+$3
+GET
+*2
+$3
+SET
+$7
+onlykey
+*3
+$4
+HSET
+$1
+h
+$9
+onlyfield
